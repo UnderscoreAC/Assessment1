@@ -9,7 +9,7 @@ const _1D = "cd";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice1 = FILL_ME_IN;
+const yourChoice1 = _1B;
 // SOLUTION ENDS
 
 /** Q2.
@@ -25,7 +25,7 @@ const _2D = "All of the Above";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice2 = FILL_ME_IN;
+const yourChoice2 = _2A;
 // SOLUTION ENDS
 
 /** Q3.
@@ -39,7 +39,7 @@ const _3D = "_3B && _3C are correct";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice3 = FILL_ME_IN;
+const yourChoice3 = _3B;
 // SOLUTION ENDS
 
 /** Q4.
@@ -53,7 +53,7 @@ const _4D = 'Assign the target="_newWindow" attribute to the a tag';
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice4 = FILL_ME_IN;
+const yourChoice4 = _4A;
 // SOLUTION ENDS
 
 /** Q5.
@@ -69,7 +69,7 @@ const _5D = "None of the above";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice5 = FILL_ME_IN;
+const yourChoice5 = _5B;
 // SOLUTION ENDS
 
 /** Q6.
@@ -86,7 +86,7 @@ const _6D = "All of the above";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice6 = FILL_ME_IN;
+const yourChoice6 = _6A;
 // SOLUTION ENDS
 
 /** Q7.
@@ -100,7 +100,7 @@ const _7D = "4pm";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice7 = FILL_ME_IN;
+const yourChoice7 = _7D;
 // SOLUTION ENDS
 
 /** Q8.
@@ -115,7 +115,7 @@ const _8D = "All of the above";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice8 = FILL_ME_IN;
+const yourChoice8 = _8D;
 // SOLUTION ENDS
 
 /** Q9.
@@ -130,7 +130,7 @@ const _9D =
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice9 = FILL_ME_IN;
+const yourChoice9 = _9D;
 // SOLUTION ENDS
 
 /** Q10.
@@ -144,7 +144,7 @@ const _10D = "<ul>";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice10 = FILL_ME_IN;
+const yourChoice10 = _10C;
 // SOLUTION ENDS
 
 /** Q11.
@@ -158,7 +158,7 @@ const _11D = "dot.casing";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice11 = FILL_ME_IN;
+const yourChoice11 = _11A;
 // SOLUTION ENDS
 
 /** Q12.
@@ -172,7 +172,7 @@ const _12D = "target.push(newElement)";
 
 // YOUR CODE HERE
 // SOLUTION STARTS
-const yourChoice12 = FILL_ME_IN;
+const yourChoice12 = _12D;
 // SOLUTION ENDS
 
 module.exports = {
