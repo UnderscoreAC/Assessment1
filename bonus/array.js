@@ -22,21 +22,26 @@ console.log(teachers.includes(sam));
 /**********************************************
  * array.slice()
  * ==================================
- * When you would use it:
+ * When you would use it: to returns a portion of an array, example below cuts off sam@x.co returns the two other things.
  ***********************************************/
 // CODE HERE
+let teachers = ["sam@x.co", "bibek@x.co", "lesley@x.co"];
+console.log(teachers.slice(1))
 
 /**********************************************
  * array.splice()
  * ==================================
- * When you would use it:
+ * When you would use it: To replace something in an array, example I replaced bibek because im a techlead.  
  ***********************************************/
 // CODE HERE
+let teachers = ["sam@x.co", "bibek@x.co", "lesley@x.co"];
+teachers.splice(1, 1,'ansonchung@x.co')
+console.log(teachers)
 
 /**********************************************
  * array.indexOf()
  * ==================================
- * When you would use it:
+ * When you would use it: returns index of what
  ***********************************************/
 // CODE HERE
 
