@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Test js data-types",
+      "setup": "cd js-datatypes && npm install",
+      "run": "cd js-datatypes && npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test MCQ",
+      "setup": "cd wk0mcq && npm install",
+      "run": "cd wk0mcq && npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 12
+    },
+    {
+      "name": "Test functions",
+      "setup": "cd functions && npm install",
+      "run": "cd functions && npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
